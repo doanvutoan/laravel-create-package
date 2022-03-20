@@ -1,0 +1,19 @@
+{
+    "name": "mallcode/post",
+    "description": "day package post",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Mallcode\\Post\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "TOAN",
+            "email": "dvtoan.kientruc@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
